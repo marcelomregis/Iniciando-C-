@@ -1,0 +1,14 @@
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Csharp\ConsoleCsharp\bin\Debug\ConsoleCsharp.exe.config
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Csharp\ConsoleCsharp\bin\Debug\ConsoleCsharp.exe
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Csharp\ConsoleCsharp\bin\Debug\ConsoleCsharp.pdb
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Csharp\ConsoleCsharp\obj\Debug\ConsoleCsharp.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Csharp\ConsoleCsharp\obj\Debug\ConsoleCsharp.exe
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Csharp\ConsoleCsharp\obj\Debug\ConsoleCsharp.pdb
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Csharp\ConsoleCsharp\obj\Debug\ConsoleCsharp.csprojResolveAssemblyReference.cache
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Iniciando C# - Repositório\ConsoleCsharp\obj\Debug\ConsoleCsharp.csprojResolveAssemblyReference.cache
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Iniciando C# - Repositório\ConsoleCsharp\obj\Debug\ConsoleCsharp.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Iniciando C# - Repositório\ConsoleCsharp\obj\Debug\ConsoleCsharp.exe
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Iniciando C# - Repositório\ConsoleCsharp\obj\Debug\ConsoleCsharp.pdb
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Iniciando C# - Repositório\ConsoleCsharp\bin\Debug\ConsoleCsharp.exe.config
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Iniciando C# - Repositório\ConsoleCsharp\bin\Debug\ConsoleCsharp.exe
+C:\Users\marce\OneDrive\PROGRAMAÇÃO\C#\Projetos\Iniciando com C#\Iniciando C# - Repositório\ConsoleCsharp\bin\Debug\ConsoleCsharp.pdb
